@@ -1,4 +1,4 @@
-# 🧠 PCOS Detection Using Machine Learning (CSV-Based Analysis)
+# PCOS Detection Using Machine Learning (CSV-Based Analysis)
 
 This repository contains a machine learning-based analysis for detecting **Polycystic Ovary Syndrome (PCOS)** using a structured CSV dataset. The study explores the effectiveness of various traditional machine learning models and evaluates the impact of techniques like **SMOTE** for class balancing, and **Select KBest** and **Recursive Feature Elimination (RFE)** for feature selection in the dataset.
 
